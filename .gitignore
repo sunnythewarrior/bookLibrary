@@ -1,0 +1,19 @@
+# Node.js & NPM (backend)
+/node_modules/
+npm-debug.log
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Node.js & NPM (frontend)
+/client/node_modules/
+/client/npm-debug.log
+/client/.env
